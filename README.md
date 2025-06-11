@@ -1,16 +1,14 @@
-## Hi there 👋
+ ## Hi there 👋
 
-<!--
-**anuprai77/anuprai77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anup, a passionate developer skilled in both **frontend** and **backend** development. I enjoy building dynamic and user-friendly applications while continuously expanding my knowledge.
 
-Here are some ideas to get you started:
+- 🔭 **Currently working on**: Building full-stack web applications and exploring new technologies.
+- 🌱 **Currently learning**: Deepening my expertise in **Python with Django**, **Tailwind CSS**, and modern web development practices.
+- 💻 **Tech stack**:
+  - **Frontend**: HTML, CSS, JavaScript, Tailwind CSS
+  - **Backend**: PHP, Python (Django), MySQL
+- 👯 **Looking to collaborate on**: Open-source projects or innovative web development ideas.
+- 📫 **How to reach me**: [anuplimbu70@gmail.com](mailto:anuplimbu70@gmail.com)
+- ⚡ **Fun fact**: I’m always learning something new every day to stay ahead in the ever-evolving tech world!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my projects below or reach out to connect!
